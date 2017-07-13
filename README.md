@@ -32,3 +32,21 @@ Scuderia
 La Ferrari
 f12 berlinetta  
 California
+Centanario
+Ghibli
+Gran Turismo
+Gran Turismo s
+Camry
+Corolla
+Avalon
+Prius
+Sienna
+Primavera
+Accord
+Civic
+Cr-z
+Cr-v
+Pilot
+Ridgeline
+Hr-V
+s2k
