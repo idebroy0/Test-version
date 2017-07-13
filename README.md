@@ -50,3 +50,5 @@ Pilot
 Ridgeline
 Hr-V
 s2k
+Civic hybrid
+Accord hybrid
